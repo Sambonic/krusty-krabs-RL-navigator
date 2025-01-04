@@ -2,7 +2,7 @@
 
 This project involves designing a simulation where a robotic agent, "Mr. Krabs," utilizes a Double Deep Q-Network (DDQN) to locate and collect a forgotten stash of money in a simulation of the Krusty Krabs restaurant. The agent learns to navigate through a dynamic environment containing static and dynamic obstacles using reinforcement learning principles.
 
-#### Last Updated: December 23rd, 2024
+#### Last Updated: January 4th, 2024
 ## Table of Contents
 
 1. [Installation](#installation)
